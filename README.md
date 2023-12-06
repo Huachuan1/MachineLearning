@@ -4,4 +4,7 @@
 
 并且我也以这个项目，来强化我对git的理解与使用，图形化使用git。我用到了GitKraken，这是它的下载地址：https://gitkraken.com
 
+pull 功能可以将不同的人修改文件后的文件合并（merge）在一起
+
+
 用push 功能可以把本地服务器的文件发送到远程Git服务器上
